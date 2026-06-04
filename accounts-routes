@@ -1,0 +1,2 @@
+NAME       HOST/PORT                                                                                                                        PATH   SERVICES   PORT    TERMINATION   WILDCARD
+accounts   accounts-sn-labs-terryzhang05.labs-prod-openshift-san-a45631dc5778dc6371c67d206ba9ae5c-0000.us-east.containers.appdomain.cloud          accounts   <all>   edge          None
